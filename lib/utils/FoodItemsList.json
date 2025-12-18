@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "Cupcake",
+      "subtitle": "Cupcake is a tasty dessert which is eaten by Americans",
+      "button": "$10"
+    },
+    {
+      "title": "Burger",
+      "subtitle": "Burger is a popular fast food made with buns, patty and vegetables",
+      "button": "$8"
+    },
+    {
+      "title": "Pizza",
+      "subtitle": "Pizza is an Italian dish topped with cheese and vegetables",
+      "button": "$12"
+    },
+    {
+      "title": "Pasta",
+      "subtitle": "Pasta is a classic Italian food made from wheat and sauce",
+      "button": "$9"
+    },
+    {
+      "title": "Sandwich",
+      "subtitle": "Sandwich is a quick meal made with bread and fillings",
+      "button": "$6"
+    },
+    {
+      "title": "French Fries",
+      "subtitle": "French fries are crispy potato sticks served as snacks",
+      "button": "$5"
+    },
+    {
+      "title": "Donut",
+      "subtitle": "Donut is a sweet fried dessert with sugar glaze",
+      "button": "$4"
+    },
+    {
+      "title": "Ice Cream",
+      "subtitle": "Ice cream is a frozen dessert enjoyed in summer",
+      "button": "$7"
+    },
+    {
+      "title": "Hot Dog",
+      "subtitle": "Hot dog is a grilled sausage served in a bun",
+      "button": "$6"
+    },
+    {
+      "title": "Taco",
+      "subtitle": "Taco is a Mexican dish filled with meat and vegetables",
+      "button": "$9"
+    },
+    {
+      "title": "Nachos",
+      "subtitle": "Nachos are crispy chips topped with cheese and sauces",
+      "button": "$8"
+    },
+    {
+      "title": "Pancake",
+      "subtitle": "Pancakes are soft breakfast items served with syrup",
+      "button": "$7"
+    },
+    {
+      "title": "Waffles",
+      "subtitle": "Waffles are crispy outside and soft inside breakfast food",
+      "button": "$8"
+    },
+    {
+      "title": "Brownie",
+      "subtitle": "Brownie is a chocolate baked dessert",
+      "button": "$5"
+    },
+    {
+      "title": "Cheesecake",
+      "subtitle": "Cheesecake is a creamy dessert made with cheese",
+      "button": "$11"
+    },
+    {
+      "title": "Muffin",
+      "subtitle": "Muffin is a small baked cake enjoyed with tea",
+      "button": "$4"
+    },
+    {
+      "title": "Milkshake",
+      "subtitle": "Milkshake is a cold drink made with milk and ice cream",
+      "button": "$6"
+    },
+    {
+      "title": "Smoothie",
+      "subtitle": "Smoothie is a healthy drink made from fruits",
+      "button": "$7"
+    },
+    {
+      "title": "Coffee",
+      "subtitle": "Coffee is a hot beverage made from roasted beans",
+      "button": "$3"
+    },
+    {
+      "title": "Tea",
+      "subtitle": "Tea is a refreshing hot drink enjoyed worldwide",
+      "button": "$2"
+    }
+  ]
+}

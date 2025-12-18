@@ -1,0 +1,15 @@
+{
+  "appName": "Super Mart",
+  "login": "Connexion",
+  "welcome": "Bienvenue chez Super Mart",
+  "continue_": "Continuer",
+  "cancel": "Annuler",
+  "exit": "Quitter",
+  "yes": "Oui",
+  "no": "Non",
+
+  "home": "Accueil",
+  "setting": "Paramètres",
+  "about": "À propos",
+  "contact_us": "Contactez-nous"
+}
